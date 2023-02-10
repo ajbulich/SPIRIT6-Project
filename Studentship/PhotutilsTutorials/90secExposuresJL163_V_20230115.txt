@@ -1,0 +1,8 @@
+Studentship/SPIRIT6-Observations/GoodDarks/Multiple-Exposures/20230115/JL-163/JL-163-S001-V-R001-V.fts
+Studentship/SPIRIT6-Observations/GoodDarks/Multiple-Exposures/20230115/JL-163/JL-163-S001-V-R002-V.fts
+Studentship/SPIRIT6-Observations/GoodDarks/Multiple-Exposures/20230115/JL-163/JL-163-S001-V-R003-V.fts
+Studentship/SPIRIT6-Observations/GoodDarks/Multiple-Exposures/20230115/JL-163/JL-163-S001-V-R004-V.fts
+Studentship/SPIRIT6-Observations/GoodDarks/Multiple-Exposures/20230115/JL-163/JL-163-S001-V-R005-V.fts
+Studentship/SPIRIT6-Observations/GoodDarks/Multiple-Exposures/20230115/JL-163/JL-163-S001-V-R006-V.fts
+Studentship/SPIRIT6-Observations/GoodDarks/Multiple-Exposures/20230115/JL-163/JL-163-S001-V-R007-V.fts
+Studentship/SPIRIT6-Observations/GoodDarks/Multiple-Exposures/20230115/JL-163/JL-163-S001-V-R008-V.fts
